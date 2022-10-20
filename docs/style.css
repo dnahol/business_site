@@ -25,3 +25,10 @@ h3 {
 h4 {
     color: black;
 }
+
+/* Notes
+Safari compatibility:
+    - When possible, for iPhones
+    - For CSS inline and text center `text-align: -webkit-center;`
+
+*/
