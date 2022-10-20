@@ -2,8 +2,12 @@ body {
     
 }
 
-.center {
+.center-text {
     text-align: center;
+}
+.center-list {
+    display: inline-block;
+    text-align: left;
 }
 
 h1 {
