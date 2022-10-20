@@ -1,0 +1,23 @@
+body {
+    
+}
+
+.center {
+    text-align: center;
+}
+
+h1 {
+    color: red;
+}
+
+h2 {
+    color: black;
+}
+
+h3 {
+    color: rgba(255, 0, 0, 0.692);
+}
+
+h4 {
+    color: black;
+}
