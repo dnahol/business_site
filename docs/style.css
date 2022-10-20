@@ -3,7 +3,7 @@ body {
 }
 
 .center-text {
-    text-align: center;
+    text-align: -webkit-center;
 }
 .center-list {
     display: inline-block;
